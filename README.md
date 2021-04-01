@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This site is all about - **How I learnt, what I learnt**
+
+----
+For more - [An experimental website](https://nexusofthings.github.io/) 
+
 <!--
 **nexusofthings/nexusofthings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
